@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ## Trained Model Weight
 For access to the trained model weights, please contact us at:
 ataysuatceylan@gmail.com
+srp.gns@outlook.com
 
 
 
