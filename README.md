@@ -35,6 +35,11 @@ Make sure you have the following libraries installed. You can install them using
 ```sh
 pip install -r requirements.txt
 ```
+## Trained Model Weight
+For access to the trained model weights, please contact us at:
+ataysuatceylan@gmail.com
+
+
 
 "Stock footage used in the project introduction is provided by Videvo, downloaded from www.videvo.net."
 
