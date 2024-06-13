@@ -14,12 +14,7 @@ The goal of our project is to provide practical solutions with high-accuracy mod
 - During the training and testing process, 70% of the data was used for training, 20% for testing, and 10% for validation.
 
 ## Analysis and Results
-
-**Confusion Matrix:**
-- True Cyclist / Predicted Cyclist: 1112
-- True Background / Predicted Cyclist: 162
-- True Cyclist / Predicted Background: 40
-- True Background / Predicted Background: 0
+![confusion_matrix](https://github.com/tetrakup/cyclist_detection/assets/97338156/b296f275-c918-42c6-83c1-09f6bf746090){:width="300px" height="300px"}
 
 **Performance Metrics:**
 - Accuracy: 84.6%
@@ -27,12 +22,19 @@ The goal of our project is to provide practical solutions with high-accuracy mod
 - Precision: 87.3%
 - F1 Score: 91.7%
 
+![projeuygulama](https://github.com/tetrakup/cyclist_detection/assets/97338156/32a70baa-bf38-4268-835c-78a9c94811cc)
+
+
 These results indicate that our model can detect cyclists with high accuracy and is successful in its task.
+
+
 
 ## Requirements
 
 Make sure you have the following libraries installed. You can install them using the command:
 ```sh
 pip install -r requirements.txt
+```
 
+"Stock footage used in the project introduction is provided by Videvo, downloaded from www.videvo.net."
 
