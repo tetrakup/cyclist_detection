@@ -14,7 +14,7 @@ The goal of our project is to provide practical solutions with high-accuracy mod
 - During the training and testing process, 70% of the data was used for training, 20% for testing, and 10% for validation.
 
 ## Analysis and Results
-![confusion_matrix](https://github.com/tetrakup/cyclist_detection/assets/97338156/b296f275-c918-42c6-83c1-09f6bf746090){:width="300px" height="300px"}
+![confusion_matrix](https://github.com/tetrakup/cyclist_detection/assets/97338156/b296f275-c918-42c6-83c1-09f6bf746090)
 
 **Performance Metrics:**
 - Accuracy: 84.6%
